@@ -28,6 +28,8 @@ I am a passionate developer with a keen interest in web development, JavaScript,
 ![Jayanta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jayanta7022&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayanta7022&layout=compact&theme=radical)
 ![Jayanta's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jayanta7022&theme=radical)
+![Jayanta's Contributions](https://activity-graph.herokuapp.com/graph?username=Jayanta7022&theme=react-dark)
+![Jayanta's Pull Requests](https://github-readme-stats.vercel.app/api/pin/?username=Jayanta7022&repo=PullRequestRepo&theme=radical)
 
 ---
 
@@ -56,13 +58,13 @@ I am a passionate developer with a keen interest in web development, JavaScript,
 ## 📝 Projects
 
 ### [talk-a-tive](https://github.com/Jayanta7022/talk-a-tive)
-A  real time chat application built using JavaScript.
+A real-time chat application built using JavaScript.
 
 ### [mentoring-management](https://github.com/orgs/HITmentoring/repositories)
 A project for managing mentoring activities.
 
 ### [ElectricBillingSystem](https://github.com/Jayanta7022/ElectricBillingSystem)
-A Java-based graphical user interface  application for managing electric billing systems.
+A Java-based graphical user interface application for managing electric billing systems.
 
 ---
 
