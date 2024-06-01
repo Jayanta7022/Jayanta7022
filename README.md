@@ -31,17 +31,11 @@ I am a passionate developer with a keen interest in web development, JavaScript,
 
 ---
 
-## 🏆 Achievements
-
-- **Pull Shark**: Contributed multiple pull requests to open-source projects.
-- **Repositories**: Developed and maintained 26 repositories.
-- **Stars**: Earned 5 stars on various projects.
-
 ---
 
 ## 💬 Contact Me
 
-- **Email**: jayanta.barik@example.com
+- **Email**: jayanta.barik7022@gmail.com
 - **LinkedIn**: [Jayanta Barik](https://www.linkedin.com/in/jayanta-barik)
 - **GitHub**: [Jayanta7022](https://github.com/Jayanta7022)
 
