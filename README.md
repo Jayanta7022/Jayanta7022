@@ -39,13 +39,6 @@ I am a passionate developer with a keen interest in web development, JavaScript,
 
 ---
 
-## 📈 Contributions
-
-<!--START_SECTION:contributions-->
-<!--END_SECTION:contributions-->
-
----
-
 ## 💬 Contact Me
 
 - **Email**: jayanta.barik@example.com
