@@ -28,8 +28,6 @@ I am a passionate developer with a keen interest in web development, JavaScript,
 ![Jayanta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jayanta7022&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayanta7022&layout=compact&theme=radical)
 ![Jayanta's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jayanta7022&theme=radical)
-![Jayanta's Contributions](https://activity-graph.herokuapp.com/graph?username=Jayanta7022&theme=react-dark)
-![Jayanta's Pull Requests](https://github-readme-stats.vercel.app/api/pin/?username=Jayanta7022&repo=PullRequestRepo&theme=radical)
 
 ---
 
@@ -43,7 +41,8 @@ I am a passionate developer with a keen interest in web development, JavaScript,
 
 ## 📈 Contributions
 
-![Jayanta's Contributions](https://activity-graph.herokuapp.com/graph?username=Jayanta7022&theme=react-dark)
+<!--START_SECTION:contributions-->
+<!--END_SECTION:contributions-->
 
 ---
 
